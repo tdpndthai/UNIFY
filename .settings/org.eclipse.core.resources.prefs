@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/admin/view/add-product.jsp=UTF-8
+encoding//WebContent/view/admin/view/edit-product.jsp=UTF-8
+encoding//WebContent/view/admin/view/index.jsp=UTF-8
+encoding//WebContent/view/admin/view/list-product.jsp=UTF-8
+encoding//WebContent/view/admin/view/slide-bar.jsp=UTF-8
+encoding//WebContent/view/client/view/footer.jsp=UTF-8
+encoding//WebContent/view/client/view/list-cart.jsp=UTF-8
+encoding//WebContent/view/client/view/navbar.jsp=UTF-8
+encoding//WebContent/view/client/view/product-detail.jsp=UTF-8
+encoding//WebContent/view/client/view/topbar.jsp=UTF-8
+encoding//src/com/vienmv/controller/LoginController.java=UTF-8
+encoding//src/com/vienmv/controller/admin/ProductListController.java=UTF-8
